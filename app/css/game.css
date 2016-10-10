@@ -24,12 +24,12 @@ body div{
 
 .start{
     z-index: 1000;
-    top: 0.7em;
+    top: 0.5em;
     position: absolute;
     height: 2em;
     width: 5em;
     left: calc(50% - 18em);
-    background-color: rgb(167, 167, 167);
+    background-color: rgb(167, 167, 0);
     text-align: center;
     line-height: 2em;
     font-family: helvetica;
